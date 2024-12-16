@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Daily-notes/14th-Dec-2024</loc>
-    <lastmod>2024-12-14T19:39:01.622Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2022/10.-Oct-22/23rd-Oct-2022</loc>
     <lastmod>2024-11-25T11:06:38.405Z</lastmod>
   </url><url>
@@ -67,6 +64,12 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/13th-Dec-2024</loc>
     <lastmod>2024-12-13T13:12:00.975Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/14th-Dec-2024</loc>
+    <lastmod>2024-12-14T19:39:01.622Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/15th-Dec-2024</loc>
+    <lastmod>2024-12-15T10:27:22.852Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/2nd-Dec-2024</loc>
     <lastmod>2024-12-02T21:32:37.721Z</lastmod>
@@ -143,6 +146,9 @@
     <loc>https://quartz.jzhao.xyz/Main-Notes/Church/The-Bridge-Saundersfoot</loc>
     <lastmod>2024-12-14T20:29:00.261Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/Computer-Games/Detroit-Become-Human</loc>
+    <lastmod>2024-12-15T19:09:59.942Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Digital-Garden-Ideas-and-Planning/Crafting-a-Standard-Colour-Palette-for-WordPress-Themes</loc>
     <lastmod>2024-12-08T15:04:26.904Z</lastmod>
   </url><url>
@@ -154,9 +160,6 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Exercise/Templeton-Home-Set</loc>
     <lastmod>2024-11-25T11:06:38.453Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Main-Notes/Info</loc>
-    <lastmod>2024-11-25T11:06:38.454Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Isaac/1.-Rules/Rule-1---Have-Faith</loc>
     <lastmod>2024-11-25T11:06:38.456Z</lastmod>
@@ -206,6 +209,9 @@
     <loc>https://quartz.jzhao.xyz/Main-Notes/Isaac/1.-Rules/Rule-9---Moderation</loc>
     <lastmod>2024-11-25T11:06:38.465Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/Isaac/2.-Poems--and--Quotes/Aubade</loc>
+    <lastmod>2024-12-14T22:02:28.636Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Isaac/2.-Poems--and--Quotes/Desiderata</loc>
     <lastmod>2024-11-25T11:06:38.466Z</lastmod>
   </url><url>
@@ -236,6 +242,9 @@
     <loc>https://quartz.jzhao.xyz/Main-Notes/Recipies/Steph's-New-Pasta-Sauce</loc>
     <lastmod>2024-12-03T19:29:49.400Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/Useful-Info</loc>
+    <lastmod>2024-11-25T11:06:38.454Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/README</loc>
     <lastmod>2024-11-25T11:06:38.475Z</lastmod>
   </url><url>
@@ -257,9 +266,6 @@
     <loc>https://quartz.jzhao.xyz/Source-Notes/Iain-M-Banks/Use-of-Weapons---Iain-M-Banks</loc>
     <lastmod>2024-11-25T11:06:38.481Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Blaise-Pascal</loc>
-    <lastmod>2024-11-25T11:06:38.482Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Scientific-Evidence/Attending-religious-services-linked-to-longer-lives,-study-shows</loc>
     <lastmod>2024-11-25T11:06:38.484Z</lastmod>
   </url><url>
@@ -268,6 +274,21 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Scientific-Evidence/Religious-upbringing-linked-to-better-health-and-well-being-during-early-adulthood</loc>
     <lastmod>2024-11-25T11:06:38.485Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Theologians/Blaise-Pascal</loc>
+    <lastmod>2024-11-25T11:06:38.482Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Theologians/C.S.-Lewis</loc>
+    <lastmod>2024-12-15T21:15:37.485Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Theologians/Dietrich-Bonhoeffer</loc>
+    <lastmod>2024-12-15T21:15:33.320Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Theologians/N.T.-Wright</loc>
+    <lastmod>2024-12-15T21:15:44.796Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Theologians/Tim-Keller</loc>
+    <lastmod>2024-12-15T21:15:40.308Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Source-Notes/Theology/Within-Reason-Podcast---Women,-Slaves--and--the-Unforgivable-Sin</loc>
     <lastmod>2024-11-25T11:06:38.487Z</lastmod>
@@ -283,6 +304,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Capitalism-and-Class-Struggle</loc>
     <lastmod>2024-11-25T11:06:38.491Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Counterintuitive-Nature-of-Christianity</loc>
+    <lastmod>2024-12-15T21:18:44.200Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Daily-Notes</loc>
     <lastmod>2024-11-25T11:06:38.492Z</lastmod>
@@ -308,8 +332,20 @@
     <loc>https://quartz.jzhao.xyz/Themes/Focus-on-Identity-over-Goals</loc>
     <lastmod>2024-11-25T11:06:38.495Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Following-Christ%E2%80%99s-Example</loc>
+    <lastmod>2024-12-15T21:22:22.759Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Game-Theory</loc>
     <lastmod>2024-11-25T11:06:38.497Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/God%E2%80%99s-Provision-and-Love</loc>
+    <lastmod>2024-12-15T21:22:09.971Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Humility-and-Service</loc>
+    <lastmod>2024-12-15T21:22:25.227Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Intentional-Living</loc>
+    <lastmod>2024-12-15T21:22:35.993Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Isaac</loc>
     <lastmod>2024-11-25T11:06:38.498Z</lastmod>
@@ -332,11 +368,17 @@
     <loc>https://quartz.jzhao.xyz/Themes/Practical-Kindness</loc>
     <lastmod>2024-12-13T13:38:44.074Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Radical-Forgiveness</loc>
+    <lastmod>2024-12-15T21:22:13.463Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Recipes</loc>
     <lastmod>2024-12-03T19:38:04.546Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Redemption-Arcs-in-Literature</loc>
     <lastmod>2024-11-25T11:06:38.502Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Relationship-Over-Religion</loc>
+    <lastmod>2024-12-15T21:22:18.444Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Relationships-and-Community</loc>
     <lastmod>2024-12-13T13:38:48.392Z</lastmod>
@@ -347,11 +389,17 @@
     <loc>https://quartz.jzhao.xyz/Themes/Rules</loc>
     <lastmod>2024-11-25T11:06:38.502Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Sacrifice-and-Selflessness</loc>
+    <lastmod>2024-12-15T21:22:15.702Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Small-Changes,-Big-Impact</loc>
     <lastmod>2024-11-25T11:06:38.503Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Social-Structures</loc>
     <lastmod>2024-11-25T11:06:38.504Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Themes/Transformation-Through-Faith</loc>
+    <lastmod>2024-12-15T21:22:28.477Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themes/Trinity-and-Love</loc>
     <lastmod>2024-12-13T13:38:50.500Z</lastmod>
