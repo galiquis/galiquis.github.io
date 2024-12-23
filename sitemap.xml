@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Daily-notes/19th-Dec-2024</loc>
-    <lastmod>2024-12-19T08:47:40.583Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2022/10.-Oct-22/23rd-Oct-2022</loc>
     <lastmod>2024-11-25T11:06:38.405Z</lastmod>
   </url><url>
@@ -79,6 +76,12 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/18th-Dec-2024</loc>
     <lastmod>2024-12-18T23:09:11.002Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/19th-Dec-2024</loc>
+    <lastmod>2024-12-19T08:47:40.583Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/21st-Dec-2024</loc>
+    <lastmod>2024-12-21T17:54:55.432Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily-notes/2024/12.-December/2nd-Dec-2024</loc>
     <lastmod>2024-12-02T21:32:37.721Z</lastmod>
@@ -245,6 +248,18 @@
     <loc>https://quartz.jzhao.xyz/Main-Notes/Isaac/Start-Here</loc>
     <lastmod>2024-11-25T11:06:38.471Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/People/Chris-Caine</loc>
+    <lastmod>2024-12-22T17:43:52.664Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/People/John-Edmonds</loc>
+    <lastmod>2024-12-22T17:39:26.098Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/People/Sara-Edmonds</loc>
+    <lastmod>2024-12-22T17:42:47.607Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/Places/Tenby-House</loc>
+    <lastmod>2024-12-22T17:49:58.325Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Python/angle_between.py</loc>
     <lastmod>2024-11-25T11:06:38.473Z</lastmod>
   </url><url>
@@ -253,6 +268,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Recipies/Steph's-New-Pasta-Sauce</loc>
     <lastmod>2024-12-03T19:29:49.400Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Main-Notes/Substack-Ideas/Articles/Why-My-Code-Needs-a-Compass---A-Data-Scientist%E2%80%99s-Exploration-of-Faith</loc>
+    <lastmod>2024-12-22T16:30:48.822Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Main-Notes/Useful-Info</loc>
     <lastmod>2024-11-25T11:06:38.454Z</lastmod>
