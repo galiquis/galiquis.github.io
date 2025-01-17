@@ -6,6 +6,24 @@
       <description>Last 10 notes on G-Mac.uk</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>NVIM Error - E576</title>
+    <link>https://quartz.jzhao.xyz/Main-Notes/Python/NVIM-Error---E576</link>
+    <guid>https://quartz.jzhao.xyz/Main-Notes/Python/NVIM-Error---E576</guid>
+    <description>E576: Error while reading ShaDa file: last entry specified that it occupies 11 bytes, but file ended earlier Run :wshada! in nvim to overwrite the shada file. ...</description>
+    <pubDate>Thu, 16 Jan 2025 19:11:25 GMT</pubDate>
+  </item><item>
+    <title>Kartoffelpuffer</title>
+    <link>https://quartz.jzhao.xyz/Main-Notes/Recipies/Kartoffelpuffer</link>
+    <guid>https://quartz.jzhao.xyz/Main-Notes/Recipies/Kartoffelpuffer</guid>
+    <description>Intro This recipe brings a taste of Germany to your kitchen! Kartoffelpuffer (crispy potato fritters) take centre stage, paired with roasted asparagus and a fresh apple-walnut ...</description>
+    <pubDate>Wed, 15 Jan 2025 22:03:35 GMT</pubDate>
+  </item><item>
+    <title>Ultralearning</title>
+    <link>https://quartz.jzhao.xyz/Source-Notes/Ultralearning</link>
+    <guid>https://quartz.jzhao.xyz/Source-Notes/Ultralearning</guid>
+    <description></description>
+    <pubDate>Wed, 15 Jan 2025 22:00:12 GMT</pubDate>
+  </item><item>
     <title>Spiritual Growth Through Adversity</title>
     <link>https://quartz.jzhao.xyz/Themes/Spiritual-Growth-Through-Adversity</link>
     <guid>https://quartz.jzhao.xyz/Themes/Spiritual-Growth-Through-Adversity</guid>
@@ -43,28 +61,10 @@
     <pubDate>Mon, 13 Jan 2025 22:53:39 GMT</pubDate>
   </item><item>
     <title>82 Allt-yr-yn</title>
-    <link>https://quartz.jzhao.xyz/Main-Notes/Houses/82-Allt-yr-yn</link>
-    <guid>https://quartz.jzhao.xyz/Main-Notes/Houses/82-Allt-yr-yn</guid>
+    <link>https://quartz.jzhao.xyz/Main-Notes/Places/Houses/82-Allt-yr-yn</link>
+    <guid>https://quartz.jzhao.xyz/Main-Notes/Places/Houses/82-Allt-yr-yn</guid>
     <description>Bought: Sold:.</description>
     <pubDate>Sun, 12 Jan 2025 10:42:22 GMT</pubDate>
-  </item><item>
-    <title>SubStack</title>
-    <link>https://quartz.jzhao.xyz/Themes/SubStack</link>
-    <guid>https://quartz.jzhao.xyz/Themes/SubStack</guid>
-    <description></description>
-    <pubDate>Tue, 31 Dec 2024 12:09:09 GMT</pubDate>
-  </item><item>
-    <title>coding</title>
-    <link>https://quartz.jzhao.xyz/Themes/coding</link>
-    <guid>https://quartz.jzhao.xyz/Themes/coding</guid>
-    <description></description>
-    <pubDate>Tue, 31 Dec 2024 12:08:59 GMT</pubDate>
-  </item><item>
-    <title>algorithmic art</title>
-    <link>https://quartz.jzhao.xyz/Themes/algorithmic-art</link>
-    <guid>https://quartz.jzhao.xyz/Themes/algorithmic-art</guid>
-    <description></description>
-    <pubDate>Tue, 31 Dec 2024 12:08:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
